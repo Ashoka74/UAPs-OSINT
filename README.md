@@ -19,8 +19,8 @@ This is a collection of resources and ideas to kick-start an Open-Source Intelli
   - Fit a linear regression model
  
 # Resources
-- [National Aviation Reporting Center On Anomalous Phenomena](https://www.narcap.org/blog/flightdynamicsofuap)
-- [Declassified Government Documents Search Engine](https://theblacktoevault.com/)
+- [National Aviation Reporting Center On Anomalous Phenomena (NARCAP)](https://www.narcap.org/blog/flightdynamicsofuap)
+- [Declassified Government Documents Search Engine (TheBlackVault)](https://theblacktoevault.com/)
 
 ## Testimonials
 
