@@ -7,16 +7,32 @@ This is a collection of resources and ideas to kick-start an Open-Source Intelli
 ### 1) Social Media Insights
 
 - Collect UAP sightings across social media platforms
-- Validate UAP sightings using tools such as Instagram location to match similar images within an area and rule out insects, birds, and camera artifacts
+- Validate UAP sightings using tools such as [Instagram location](https://github.com/bellingcat/instagram-location-search) to match similar images within an area and rule out insects, birds, and camera artifacts
 - Generate Knowledge Graphs of actors interacting within the UAP community
 - Generate Statistics and NLP analyses on UAP sightings
 
 ### 2) Hypothesis testing
 
 - UAPs can disrupt the local magnetic field and leave a recognizable signature
-  - Leverage Swarm Satellites to get 24h measure of local geomagnetic variations during a UAP sighting
+  - Leverage [Swarm Satellites](https://vires.services/) to get 24h measure of local geomagnetic variations during a UAP sighting [MagGeoEnv](https://maggeo.github.io/MagGeo/)
   - Normalize and align all time-series
   - Fit a linear regression model
+ 
+# Resources
+- [National Aviation Reporting Center On Anomalous Phenomena](https://www.narcap.org/blog/flightdynamicsofuap)
+- [Declassified Government Documents Search Engine](https://theblacktoevault.com/)
+
+## Testimonials
+
+- [David Grusch Interview](https://www.youtube.com/watch?v=ZSj7QsHRxHQ&t=237s&ab_channel=NewsNation)
+- [Direct encounter with UAPs from 5 US military witnesses](https://www.youtube.com/watch?v=zDY7t6HihCw)
+
+
+## Data 
+
+- [Reports from 1989 to august 2022](https://updb.app/)
+- [National Center for Space Studies - GEIPAN](https://www.cnes-geipan.fr/fr/recherche/cas?customGetLattitude=1.0726820187506263&customGetLongitude=-57.65625000000003&customGetZoom=0&field_agregation_index_value=&field_classification_des_cas_target_id%5B%5D=13&field_classification_des_cas_target_id%5B%5D=14&field_classification_des_cas_target_id%5B%5D=15&field_classification_des_cas_target_id%5B%5D=16&field_date_d_observation_value%5Bmax%5D=&field_date_d_observation_value%5Bmin%5D=&field_departement_target_id=&field_document_existe_ou_pas_value=1&field_latitude_value%5Bmax%5D=&field_latitude_value%5Bmax%5D=89.99598568824292&field_latitude_value%5Bmin%5D=&field_latitude_value%5Bmin%5D=-87.85062165074167&field_longitude_value%5Bmax%5D=&field_longitude_value%5Bmax%5D=420.46875000000006&field_longitude_value%5Bmin%5D=&field_longitude_value%5Bmin%5D=-535.7812500000001&field_phenomene_target_id=&field_type_de_cas_target_id=124&page=0&select-category-export=nothing&video=on)
+- 
 
 ## Contributing
 
