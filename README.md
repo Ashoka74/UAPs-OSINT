@@ -5,11 +5,10 @@ This is a collection of resources and ideas to kick-start an Open-Source Intelli
 ## Tasks
 
 ### 1) Social Media Insights
-
+- Generate Statistics and NLP analyses on UAP sightings :white_check_mark:
 - Collect UAP sightings across social media platforms
 - Validate UAP sightings using tools such as [Instagram location](https://github.com/bellingcat/instagram-location-search) to match similar images within an area and rule out insects, birds, and camera artifacts
 - Generate Knowledge Graphs of actors interacting within the UAP community
-- Generate Statistics and NLP analyses on UAP sightings
 - Generate a Dataset of Images + AI-Generated Captions (Kosmos-2 or similar)[https://e0010e408f6e6b68.gradio.app/]
 
 ### 2) Hypothesis testing
@@ -17,7 +16,6 @@ This is a collection of resources and ideas to kick-start an Open-Source Intelli
 - UAPs can disrupt the local magnetic field and leave a recognizable signature
   - Leverage [Swarm Satellites](https://vires.services/) to get 24h measure of local geomagnetic variations during a UAP sighting [MagGeoEnv](https://maggeo.github.io/MagGeo/)
   - Normalize and align all time-series
-  - Fit a linear regression model
  
 # Resources
 - [National Aviation Reporting Center On Anomalous Phenomena (NARCAP)](https://www.narcap.org/blog/flightdynamicsofuap)
