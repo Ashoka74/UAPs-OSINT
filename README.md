@@ -2,6 +2,8 @@
 
 This is a collection of resources and ideas to kick-start an Open-Source Intelligence movement on Unidentified Aerial Phenomenons (UAPs).
 
+For a comprehensive list, see : [UFOWaves list](https://ufowaves.org/euroufo/tools/doku.php?id=start)
+
 ## Tasks
 
 ### 1) Social Media Insights
